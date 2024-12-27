@@ -1,2 +1,2 @@
 # Sky_SC_Resourcepacks
-the resourcepacks of Sky SC
+The resourcepacks of Sky SC
